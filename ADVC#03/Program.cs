@@ -37,6 +37,48 @@ namespace ADVC_03
             #endregion
 
 
+            #region Exercise 2: Leaderboard
+
+            //SortedDictionary<int, string> leaderboard = new SortedDictionary<int, string>();
+
+            //leaderboard.Add(500, "Ahmed");
+            //leaderboard.Add(200, "Sara");
+            //leaderboard.Add(800, "Ali");
+            //leaderboard.Add(350, "Mona");
+
+
+            //foreach (var entry in leaderboard)
+            //{
+            //    Console.WriteLine($"Score: {entry.Key} - Player: {entry.Value}");
+            //}
+
+            //Console.WriteLine(leaderboard.Keys.First());
+            //Console.WriteLine(leaderboard.Values.First());
+            //Console.WriteLine(leaderboard.ContainsKey(500));
+            //Console.WriteLine(leaderboard.ContainsKey(500));
+
+            //if (leaderboard.TryGetValue(999, out string player999))
+            //{
+            //    Console.WriteLine($"Player with score 999: {player999}");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("No player found with score 999");
+            //}
+
+            //leaderboard.Remove(200);
+
+            //foreach (var entry in leaderboard)
+            //{
+            //    Console.WriteLine($"Score: {entry.Key} - Player: {entry.Value}");
+            //}
+
+
+
+            #endregion
+
+
+
 
 
 
