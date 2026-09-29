@@ -160,6 +160,34 @@ namespace ADVC_03
             #endregion
 
 
+            #region Exercise 5: Print Queue Simulator
+
+            //Queue<string> queue = new Queue<string>();
+            //queue.Enqueue("Report.pdf");
+            //queue.Enqueue("Invoice.pdf");
+            //queue.Enqueue("Letter.docx");
+            //queue.Enqueue("Resume.pdf");
+            //queue.Enqueue("Photo.jpg");
+
+            //Console.WriteLine(queue.Count);
+            //foreach (var item in queue)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            //Console.WriteLine(queue.Peek());
+            //Console.WriteLine($"printing: [{queue.Dequeue()}]");
+            //Console.WriteLine($"printing: [{queue.Dequeue()}]");
+            //Console.WriteLine($"printing: [{queue.Dequeue()}]");
+            //Console.WriteLine($"printing: [{queue.Dequeue()}]");
+            //Console.WriteLine($"printing: [{queue.Dequeue()}]");
+
+            //bool chek = queue.TryDequeue(out string file);
+            //Console.WriteLine(chek);
+            // return false because Queue is empty
+
+
+            #endregion
 
 
 
