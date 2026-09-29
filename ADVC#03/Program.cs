@@ -79,6 +79,61 @@ namespace ADVC_03
 
 
 
+            #region Exercise 3: Phone Book
+
+            //    Dictionary<string, string> phoneBook = new Dictionary<string, string>
+            //{
+            //    { "Ahmed", "01011111111" },
+            //    { "Sara",  "01022222222" },
+            //    { "Ali",   "01033333333" },
+            //    { "Mona",  "01044444444" }
+            //};
+
+
+            //    foreach (var contact in phoneBook)
+            //    {
+            //        Console.WriteLine($"{contact.Key} : {contact.Value}");
+            //    }
+
+            //    phoneBook["Omar"] = "01055555555";   
+            //    phoneBook["Ahmed"] = "01099999999";  
+
+            //    Console.WriteLine("----- After -----");
+            //    foreach (var contact in phoneBook)
+            //    {
+            //        Console.WriteLine($"{contact.Key} : {contact.Value}");
+            //    }
+
+            //    try
+            //    {
+            //        phoneBook.Add("Sara", "01000000000"); 
+            //        Console.WriteLine("Contact added successfully.");
+            //    }
+            //    catch (ArgumentException ex)
+            //    {
+            //        Console.WriteLine($"Error: {ex.Message}");
+            //    }
+
+
+            //    bool added = phoneBook.TryAdd("Ali", "01088888888"); 
+            //    Console.WriteLine($"TryAdd succeeded? {added}");
+
+
+            //    bool exists = phoneBook.ContainsKey("Khaled");
+            //    Console.WriteLine($"Does 'Khaled' exist in the phone book? {exists}");
+
+
+            //    string number = phoneBook.TryGetValue("Khaled", out string phone) ? phone : "Not Found";
+            //    Console.WriteLine($"Khaled's number: {number}");
+
+
+            //    Console.WriteLine("Keys   : " + string.Join(", ", phoneBook.Keys));
+            //    Console.WriteLine("Values : " + string.Join(", ", phoneBook.Values));
+
+
+            #endregion
+
+
 
 
 
