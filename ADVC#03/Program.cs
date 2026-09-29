@@ -190,6 +190,28 @@ namespace ADVC_03
             #endregion
 
 
+            #region Exercise 6: Browser History (Undo)
+
+            //Stack<string> stack = new Stack<string>();
+            //stack.Push("google.com");
+            //stack.Push("github.com");
+            //stack.Push("stackoverflow.com");
+            //stack.Push("youtube.com");
+            //stack.Push("claude.ai");
+
+            //Console.WriteLine(stack.Peek());
+            //Console.WriteLine(stack.Pop());
+            //Console.WriteLine(stack.Pop());
+            //Console.WriteLine(stack.Pop());
+            //Console.WriteLine(stack.Peek());
+            //Console.WriteLine(stack.Pop());
+            //Console.WriteLine(stack.Pop());
+
+            //bool check = stack.TryPop(out string website);
+            //Console.WriteLine(check);
+            //// return false because stack is empty
+
+            #endregion
 
 
 
