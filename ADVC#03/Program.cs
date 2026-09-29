@@ -134,6 +134,35 @@ namespace ADVC_03
             #endregion
 
 
+            #region  Exercise 4: Unique Email Validator
+
+            // HashSet<string> set = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
+            // set.Add("ahmed@test.com");
+            // set.Add("AHMED@test.com");
+            // set.Add("sara@test.com");
+            // set.Add("Sara@Test.Com");
+            // Console.WriteLine(set.Count); // 2 because hashset don't allowed duplicate and we used StringComparer.OrdinalIgnoreCase
+            //HashSet<int> A = new() { 1, 2, 3, 4, 5 };
+            //HashSet<int> B = new() { 4, 5, 6, 7, 8 };
+            // HashSet<int> copy = A;
+            // HashSet<int> sub = new() { 1, 2 };
+            // //copy.UnionWith(B);
+            // //copy.IntersectWith(B);
+            // //copy.ExceptWith(B);
+            // //foreach (var item in copy)
+            // //{
+            // //    Console.WriteLine(item);
+            // //}
+            // Console.WriteLine(sub.IsSubsetOf(A));
+
+
+
+            #endregion
+
+
+
+
+
 
 
 
